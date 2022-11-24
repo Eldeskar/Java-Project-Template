@@ -65,7 +65,7 @@
                     <consoleOutput>true</consoleOutput>
                     <failsOnError>true</failsOnError>
                     <linkXRef>false</linkXRef>
-                    <sourceDirectories>src/HelloWorld/java</sourceDirectories>
+                    <sourceDirectories>src/main/java</sourceDirectories>
                     <logViolationsToConsole>true</logViolationsToConsole>
                 </configuration>
                 <executions>
